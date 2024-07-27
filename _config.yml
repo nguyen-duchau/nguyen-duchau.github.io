@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "fr-FR"
-title                    : "Duc Hau NGUYEN / portfolio"
+title                    : "My resumate"
 title_separator          : "-"
 name                     : &name "Nguyen, Duc Hau"
 description              : &description "personal description"
@@ -22,9 +22,12 @@ repository               : "nguyen-duchau/nguyen-duchau.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Nguyen Duc Hau"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. candidate at IRISA - CNRS.<br/>
+                      My domain of interest is Deep Learning, the NLP in particular, and XAI. My thesis defense will be 
+                      October 2024. I am now available and looking for any opportunity for a position in industrial R&D.
+                      "
   location         : "Paris, France"
   employer         : "IRISA - CNRS"
   uri              : # URL
