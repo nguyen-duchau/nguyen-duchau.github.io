@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "fr-FR"
-title                    : "My resumate"
+title                    : "Nguyen Duc Hau"
 title_separator          : "-"
 name                     : &name "Nguyen, Duc Hau"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Nguyen Duc Hau"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate at IRISA - CNRS.<br/>
-                      My domain of interest is Deep Learning, the NLP in particular, and XAI. My thesis defense will be 
-                      October 2024. I am now available and looking for any opportunity for a position in industrial R&D.
+  bio              : "Ph.D. candidate at <a href=\"https://www.irisa.fr/\">IRISA - CNRS</a>.<br/>
+                      My domain of interest is Deep Learning, in particular the Natural Language Processing, and eXplainable AI. My thesis defense is expected 
+                      on <b>October 2024</b>. I am now available and looking for any opportunity for a position in industrial R&D.
                       "
   location         : "Paris, France"
   employer         : "IRISA - CNRS"
