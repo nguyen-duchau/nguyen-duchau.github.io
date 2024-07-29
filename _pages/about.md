@@ -11,8 +11,28 @@ I am a Ph.D. candidate at [Linkmedia](https://www-linkmedia.irisa.fr/) team of [
 
 My defense is expected in **October 11, 2024**, but I am currently available for a new job (permanent/CDI or post-doc). Ideally, I would like to work on topics closely related to my research fields (**Natural Language Processing**, **Computer Vision** and/or **eXplainable AI**), within an R&D department in the industry (I believe that science is more meaningful when used to solve real-world problems). However, I am open to all opportunities one may offer, as long as my contributions are to solve any problems.
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Professional experience
+======
+* 2020 -- 2024: Ph.D. researcher
+    * Github University
+    * Duties includes: Updates and improvements to template
+    * Supervisor: The Users
+
+* Fall 2015: Research Assistant
+    * Github University
+    * Duties included: Merging pull requests
+    * Supervisor: Professor Hub
+
+* Summer 2015: Research Assistant
+    * Github University
+    * Duties included: Tagging issues
+    * Supervisor: Professor Git
+
 Education
 ======
-
-
-
