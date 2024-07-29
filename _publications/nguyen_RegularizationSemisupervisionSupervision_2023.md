@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/nguyen_RegularizationSemisupervisionSupervision_2023
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 19-06-2023
-venue: 'International Conference on Natural Language & Information Systems (NLDB)'
+venue: '28th International Conference on Applications of Natural Language to Information Systems (NLDB) 2023'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://hal.science/hal-04132646v1/document'
 citation: 'Duc Hau Nguyen, Cyrielle Mallart, Guillaume Gravier, Pascale Sébillot. Regularization, Semi-supervision, and Supervision for a Plausible Attention-Based Explanation. NLDB 2023, Derby, United Kingdom. pp.1-14.'

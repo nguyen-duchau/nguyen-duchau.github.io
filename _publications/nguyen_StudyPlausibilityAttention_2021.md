@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/nguyen_StudyPlausibilityAttention_2021
 excerpt: #'This paper is about the number 3. The number 4 is left for future work.'
 date: 13/12/2021
-venue: '2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA)'
+venue: '20th IEEE International Conference on Machine Learning and Applications (ICMLA)'
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://hal.science/hal-03372669/document'
 citation: 'Duc Hau Nguyen, Guillaume Gravier, Pascale Sébillot. A Study of the Plausibility of Attention between RNN Encoders in Natural Language Inference. ICMLA 2021 - 20th IEEE International Conference on Machine Learning and Applications, Dec 2021, Pasadena, United States. pp.1-7.'
