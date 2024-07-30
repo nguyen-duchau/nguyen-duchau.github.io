@@ -1,12 +1,14 @@
 ---
-title: "Géométrie de l'auto-Attention en classification : Quand la géométrie remplace l'attention"
+title: "Géométrie de l'auto-attention en classification : Quand la géométrie remplace l'attention"
 collection: publications
 permalink: /publication/fosse_GeometrieAutoattentionClassification_2023
 excerpt: #'This paper is about fixing template issue #693.'
 date: 05/06/2023
-venue: 'Actes de la 30e Conférence sur le Traitement Automatique des Langues Naturelles (TALN), volume 1 : travaux de recherche originaux -- articles longs'
+venue: '[JEP/TALN/RECITAL](https://aclanthology.org/venues/jeptalnrecital/)'
 paperurl: 'https://aclanthology.org/2023.jeptalnrecital-long.11.pdf'
-citation: 'Loïc Fosse, Duc Hau Nguyen, Pascale Sébillot, and Guillaume Gravier. 2023. Géométrie de l’auto-attention en classification : quand la géométrie remplace l’attention. In Actes de CORIA-TALN 2023. Actes de la 30e Conférence sur le Traitement Automatique des Langues Naturelles (TALN), volume 1 : travaux de recherche originaux -- articles longs, pages 137–150, Paris, France. ATALA.'
+citation: 'Loïc Fosse, Duc Hau Nguyen, Pascale Sébillot, and Guillaume Gravier. Géométrie de l’auto-attention en classification :
+quand la géométrie remplace l’attention. In Conférence sur le Traitement Automatique des Langues
+Naturelles, pp. 137-15, 2023.'
 ---
 
 Abstract (En)

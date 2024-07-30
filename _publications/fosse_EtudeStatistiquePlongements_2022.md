@@ -6,7 +6,7 @@ excerpt: #'This paper is about fixing template issue #693.'
 date: 27/06/2022
 venue: '[JEP/TALN/RECITAL](https://aclanthology.org/venues/jeptalnrecital/)'
 paperurl: 'https://aclanthology.org/2022.jeptalnrecital-taln.24.pdf'
-citation: 'Loïc Fosse, Duc-Hau Nguyen, Pascale Sébillot, and Guillaume Gravier. 2022. Une étude statistique des plongements dans les modèles transformers pour le français (An empirical statistical study of embeddings in French transformers). In Actes de la 29e Conférence sur le Traitement Automatique des Langues Naturelles. Volume 1 : conférence principale, pages 247–256, Avignon, France. ATALA.'
+citation: 'Loïc Fosse, Duc-Hau Nguyen, Pascale Sébillot, and Guillaume Gravier. Une étude statistique des plongements dans les modèles transformers pour le français. In Conference Traitement Automatique des Langues Naturelles (TALN), pp. 247–256, 2022.'
 ---
 
 Abstract (En)

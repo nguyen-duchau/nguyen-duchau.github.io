@@ -7,7 +7,7 @@ date: 13/12/2021
 venue: '20th IEEE International Conference on Machine Learning and Applications (ICMLA)'
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://hal.science/hal-03372669/document'
-citation: 'Duc Hau Nguyen, Guillaume Gravier, Pascale Sébillot. A Study of the Plausibility of Attention between RNN Encoders in Natural Language Inference. ICMLA 2021 - 20th IEEE International Conference on Machine Learning and Applications, Dec 2021, Pasadena, United States. pp.1-7.'
+citation: 'Duc Hau Nguyen, Guillaume Gravier, Pascale Sébillot. A Study of the Plausibility of Attention between RNN Encoders in Natural Language Inference. In IEEE International Conference on Machine Learning and Applications (ICMLA), pp. 1623–1629, 2021.'
 ---
 
 Abstract

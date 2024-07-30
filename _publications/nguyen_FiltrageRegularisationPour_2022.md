@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/nguyen_FiltrageRegularisationPour_2022
 excerpt: #'This paper is about fixing template issue #693.'
 date: 17/10/2022
-venue: 'Traitement Automatique de Langue Naturel (TALN)'
+venue: '[JEP/TALN/RECITAL](https://aclanthology.org/venues/jeptalnrecital/)'
 paperurl: 'https://aclanthology.org/2022.jeptalnrecital-taln.9.pdf'
-citation: 'Duc Hau Nguyen, Guillaume Gravier, and Pascale Sébillot. 2022. Filtrage et régularisation pour améliorer la plausibilité des poids d’attention dans la tâche d’inférence en langue naturelle (Filtering and regularization to improve the plausibility of attention weights in NLI). In Actes de la 29e Conférence sur le Traitement Automatique des Langues Naturelles. Volume 1 : conférence principale, pages 95–103, Avignon, France. ATALA.'
+citation: 'Duc Hau Nguyen, Guillaume Gravier, and Pascale Sébillot. Filtrage et régularisation pour améliorer la plausibilité des poids d’attention dans la tâche d’inférence en langue naturelle. Traitement Automatique des Langues Naturelles (TALN), pp. 95–103, 2022.'
 ---
 
 Abstract (En)
